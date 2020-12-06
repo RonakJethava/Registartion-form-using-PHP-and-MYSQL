@@ -1,1 +1,1 @@
-# Registartion-form-using-PHP-and-MYSQL
+# Registration-form-using-PHP-and-MYSQL
